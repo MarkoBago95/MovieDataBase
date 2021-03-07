@@ -1,0 +1,219 @@
+body,head
+{
+	background-color:#0d0e12; 
+}
+* {
+  box-sizing: border-box;
+}
+.naslovnica
+{
+	color: white; 
+	
+}
+.ispis:tagline{
+	font-size: 35px;
+}
+#porukaSearch{
+	color: white;
+}
+.search
+{
+	color: white;
+}
+.ulogovan
+{
+
+	font-size: 20px;
+	color: white;
+}
+#odjava
+{	
+	border-color: #0d0e12;
+	color: white;
+	background-color:#bf8a04;
+	height: 40px;
+	position: absolute;
+	right:5px;
+	width: 100px;
+}
+#odjava:hover {
+  background-color:#f2470f; 
+  color: white;
+}
+.tvshow
+{
+	color: white;
+}
+#pop{
+	color: white;
+}
+.similarClass
+{
+	color: white;
+}
+.ispis
+{
+	color: white;
+}
+#similar{
+	color: white;
+}
+#orgTitle
+{
+	color: white;
+}
+.column {
+	height: 340px;
+	margin-top: 70px;
+	margin-left: 45px;
+float: left;
+  width: 13%;
+  padding: 0px;
+  font-family: serif;
+   font-style: normal;
+}
+
+/* Clear floats after image containers */
+.row::after {
+	margin-left: 40px;
+ font-family: serif;
+   font-style: normal;
+}
+.column2 {
+	right: 40px;
+	height: 340px;
+	margin-top: 70px;
+	margin-left: 45px;
+	margin-right: 75px;
+float: left;
+font-size: 25px;
+  width: 15%;
+  padding: 0px;
+  font-family: serif;
+   font-style: normal;
+}
+
+/* Clear floats after image containers */
+.row2::after {
+	margin-left: 50px;
+ font-family: serif;
+   font-style: normal;
+}
+#naslov{
+	font-family: serif;
+	text-align: center;
+	background-color: #0d0e12;
+	color: white;
+	height: 55px;	
+}
+#odjeljak
+{
+	color: white;
+}
+#image
+{
+	width: 200px;
+	height: 200px;
+}
+#traz
+{
+	margin-left: 15px;
+	width: 80px;
+	height: 35px;
+}
+#trazi
+{	
+	margin-left: 20px;
+	width: 70%;
+	height: 35px;
+}
+.izbor
+{
+	margin-left: 15px;
+	width: 15%;
+	height: 35px;
+}
+.label
+{
+	margin-left: 100px;
+ background-color: none; 
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.label li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px; 
+}
+.tvseries
+{	
+	font-size: 15px;
+	color: white;
+}
+#dem1{
+	border-color: #0d0e12;
+	margin-left: 40px;
+	color: white;
+	background-color: #578799;
+	width:210px;
+	height: 50px;
+	font-size: 18px;
+}
+#dem1:hover {
+  background-color: #2b2d40; 
+  color: white;
+}
+#dem2{
+	border-color: #0d0e12;
+	color: white;
+	background-color: #943d21;
+	width:210px;
+	height: 50px;
+	font-size: 18px;
+}
+#dem2:hover {
+  background-color: #6e2e19; 
+  color: white;
+}
+#dem3{
+	border-color: #0d0e12;
+	color: white;
+	background-color:#3f733d;
+	width:210px;
+	height: 50px;
+	font-size: 18px;
+}
+#dem3:hover {
+  background-color:#1f381e; 
+  color: white;
+}
+#dem4{
+	border-color: #0d0e12;
+	color: white;
+	background-color: #594f0d;
+	width:210px;
+	height: 50px;
+	font-size: 18px;
+}
+#dem4:hover {
+  background-color:#3d370c; 
+  color: white;
+}
+#dem5{
+	border-color: #0d0e12;
+	color: white;
+	background-color: #332952;
+	width:210px;
+	height: 50px;
+	font-size: 18px;
+}
+#dem5:hover {
+  background-color:#191526; 
+  color: white;
+}
+
+
+
+
