@@ -1,5 +1,5 @@
 ----Albatros---
-
+First of all there is a video of how it works! : https://www.youtube.com/watch?v=McJnpXxeNeI
 15.05.2020 
 Studenti:
 Lejla Smječanin
