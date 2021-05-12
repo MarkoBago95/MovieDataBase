@@ -1,12 +1,9 @@
 ----Albatros---
 First of all there is a video of how it works! : https://www.youtube.com/watch?v=McJnpXxeNeI
 15.05.2020 
-Studenti:
-Lejla Smječanin
-Dženeta Karahodžić
 Marko Bago
 
-Naš projekat iz predmeta Razvoj web aplikacija(MovieDatabase)
+Projekat iz predmeta Razvoj web aplikacija(MovieDatabase)
 
 Fakultet za saobraćaj i komunikacije Sarajevo
 Prof. dr. Damir Omerašević
@@ -16,7 +13,7 @@ Zahtjevi za testiranje alikacije
 
 Instalirajte wamp ili xampp 
 
-Da bi testirali našu alikaciju morate spremiti Albatros folder u www folder u wampu
+Da bi testirali moju alikaciju morate spremiti Albatros folder u www folder u wampu
 
 Također morate napraviti mysql bazu podataka u phpmyAdmin 
 
